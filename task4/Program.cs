@@ -16,6 +16,6 @@ class Program
         int findNumber = 5;
         int index = Array.IndexOf(myFavNumbers, findNumber);
 
-        Console.WriteLine($"\nPosition of {findNumber} in array: {index}");
+        Console.WriteLine($"\nThe Position of {findNumber} in array is in {index}");
     }
 }
